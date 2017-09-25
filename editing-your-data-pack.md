@@ -2,7 +2,7 @@
 
 #### What languages are used
 
-There is only two programming languages that are used when creating scripts for TFS, which are Lua and XML.
+There is only two languages that are used when creating scripts for TFS, the first being Lua, an embeddable scripting language which communicates with the server engine, and XML, which is used to store data and register scripts.
 
 XML is used for storing data, such as items.xml, which holds all the attributes for items \(name, attack, defense, etc\), and lets you edit them.
 
